@@ -1,6 +1,7 @@
 {
   "name": "haskell-import",
   "main": "./lib/haskell-import",
+  "version": "0.0.0",
   "description": "Helps with importing types in Haskell projects",
   "keywords": [],
   "activationCommands": {

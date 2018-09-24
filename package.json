@@ -1,13 +1,12 @@
 {
   "name": "haskell-import",
   "main": "./lib/haskell-import",
-  "version": "0.0.0",
   "description": "Helps with importing types in Haskell projects",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "haskell-import:display"
   },
-  "repository": "https://github.com/atom/haskell-import",
+  "repository": "git@github.com/i-am-the-slime/haskell-import.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle haskell-import",
+        "command": "haskell-import:display"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "haskell-import",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "haskell-import:display"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

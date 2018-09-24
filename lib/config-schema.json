@@ -1,0 +1,8 @@
+{
+  "localHooglePath": {
+    "title": "Local Hoogle Path",
+    "description": "The relative path to the local hoogle database. Might have to change this when working with different projects for now.",
+    "type": "string",
+    "default": ".stack-work/hoogle/x86_64-linux-nix/lts-11.5/8.2.2/database.hoo"
+  }
+}

@@ -7,10 +7,7 @@
   "activationCommands": {
     "atom-workspace": "haskell-import:display"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/i-am-the-slime/haskell-import"
-  },
+  "repository": "git@github.com/i-am-the-slime/haskell-import.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

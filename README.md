@@ -9,6 +9,13 @@ You need to install the command line tools:
 - `hoogle`
 - `hsimport`
 
+I managed to do this by running the following
+```
+cd ~
+stack install hoogle
+stakc install hsimport
+```
+
 In order to create a workable local hoogle database for your stack project please run:
 ```
 stack hoogle generate -- --local

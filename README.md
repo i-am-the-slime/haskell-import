@@ -1,5 +1,7 @@
 # Atom Haskell Import
 
+![Example Video](example.gif)
+
 Currently the relative path to your hoogle DB is globally hardcoded in the config.
 
 ## Requirements
